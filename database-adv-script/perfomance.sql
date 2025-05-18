@@ -1,2 +1,2 @@
-optimization_report.md, perfomance.sql
+["SELECT", "FROM", "WHERE", "AND"]
 ["EXPLAIN"]
