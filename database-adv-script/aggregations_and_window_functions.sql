@@ -1,2 +1,0 @@
-["SELECT", "COUNT", "GROUP BY", "FROM"]
-["ROW_NUMBER()", "RANK()", "COUNT", "FROM"]
