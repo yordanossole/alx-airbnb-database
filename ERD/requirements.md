@@ -1,1 +1,1 @@
-![[alx-airbnb-database-ERD 1.png]]
+![[alx-airbnb-database-ERD.png]]
